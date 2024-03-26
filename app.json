@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Cluedo Harry Potter",
+    "slug": "Cluedo_Harry_Potter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cluedoIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/harry-potter-logo-start.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "androidNavigationBar": {
+      "visible": "immersive",
+      "backgroundColor": "#000000"
+    },
+    
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/cluedoIcon.png"
+
+      },
+      "package": "com.mrahan.Cluedo_Harry_Potter"
+    }
+  }
+}
