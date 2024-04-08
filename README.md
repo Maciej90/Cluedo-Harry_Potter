@@ -1,7 +1,7 @@
 # Cluedo Harry Potter
 
 
-> Use the "eas build -p android --profile preview" command to generate the apk file
+> Use the ` eas build -p android --profile preview ` command to generate the apk file
 
 
 ## What is Cleudo Harry Potter
